@@ -1,4 +1,4 @@
-# BeOpenIT-Documentation Openshift cluster Deployment
+# Documentation Openshift cluster Deployment
 ## Description
 
 This module aims to create an Openshift cluster using Redhat Openshift Service on AWS (ROSA)
@@ -67,7 +67,4 @@ This module use an internal module called terraform-aws-module-vpc that provisio
 This module has no externals dependencies yet
 
 ## Authors
-Module is maintained by BeOpenIT BU DATA 
-
-## License
-BeOpenIT Licensed
+Module is maintained by Nelson Gougou
